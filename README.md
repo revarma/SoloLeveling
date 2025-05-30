@@ -1,6 +1,8 @@
 # Books
 1. [[Foundations of Scalable Systems - Designing Distributed Architectures by Ian Gorton]]
-
+## Books Pipeline
+1. Head First Software Architecture
+2. 
 
 # Resources
 ## How to
